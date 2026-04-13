@@ -1,0 +1,24 @@
+# Environment & secrets
+.env
+linkedin_cookies.pkl
+
+# Resume files (personal info)
+*.pdf
+
+# Generated output files
+raw_posts.txt
+generated_emails.csv
+manual_dms.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+py
+debug.png

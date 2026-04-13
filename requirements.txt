@@ -1,0 +1,7 @@
+requests>=2.32.3
+python-dotenv>=1.0.1
+
+linkedin-api>=1.0.5
+langchain>=0.2.10
+langchain-google-genai>=1.0.7
+google-generativeai>=0.7.2
